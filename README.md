@@ -5,7 +5,7 @@ An advanced frontend experiment in motion design and scroll-driven interactivity
 ---
 
 ### 🔗 Live Demo
-[👉 View Project Live]() 
+[👉 View Project Live](https://priyanshjain543.github.io/Magma-main-TASK-5/) 
 
 
 ---
